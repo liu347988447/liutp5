@@ -14,8 +14,11 @@ return [
     // | 应用设置
     // +----------------------------------------------------------------------
 
+    //授权地址
+    'auto_url' => ['www.liutools.com'],
+
     // 应用调试模式
-    'app_debug'              => false,
+    'app_debug'              => true,
     // 应用Trace
     'app_trace'              => false,
     // 应用模式状态
